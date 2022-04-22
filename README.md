@@ -8,4 +8,4 @@ This is a small project where a basic form element includes an email and a passw
 
 ## Technologies Used
 
-HTML & CSS & JavaScript
+HTML & CSS
